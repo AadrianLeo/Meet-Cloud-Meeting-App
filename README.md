@@ -1,16 +1,16 @@
-# zoom_clone_flutter
+# Meet - An cloud Meeting App
 
-A new Flutter project.
+![zoombg](https://user-images.githubusercontent.com/81036521/179223352-022790ea-65b6-485b-8dca-ecf92254c8be.png)
+#
+## Introduction
+This is an flutter project an Cloud meeting app (Zoom Clone). Where you can Login with your google account and save your meeting data. you can create meetings by clicking on create meeting and you have many option such as mute, unmute, video mute, invite, chats as wel as masy other different features. you can join meeting by clicking on join meeting by giving the meeting id and your name. You can even view the meeting history and many more features available.
 
-## Getting Started
+The app is under development and some other features are comming soon
 
-This project is a starting point for a Flutter application.
+You can download the apk from the [release](https://github.com/AadrianLeo/Tictactoe-Multiplayer-Game/releases)
 
-A few resources to get you started if this is your first Flutter project:
+### `#For flutter packages run: pub get  && to run flutter project run : flutter run  or in vscode click on run from the banner and click on run without debugging or start degugging.`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### `# change your flutter credentcials and google-services.json and other different details`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### `# You can download the google-services.json file from firebase console by making android app`
