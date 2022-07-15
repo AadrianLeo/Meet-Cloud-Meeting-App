@@ -7,9 +7,15 @@ This is an flutter project an Cloud meeting app (Zoom Clone). Where you can Logi
 
 The app is under development and some other features are comming soon
 
+## Download link (meet)
+
 You can download the apk from the [release](https://github.com/AadrianLeo/Tictactoe-Multiplayer-Game/releases)
 
-### `#For flutter packages run: pub get  && to run flutter project run : flutter run  or in vscode click on run from the banner and click on run without debugging or start degugging.`
+## Installation and setup
+
+### `# For flutter packages run: pub get  && to run flutter project run : flutter run  or in vscode click on run from the banner and click on run without debugging or start degugging.`
+
+### `# Setup your firebase Authentication my giving gmail access`
 
 ### `# change your flutter credentcials and google-services.json and other different details`
 
