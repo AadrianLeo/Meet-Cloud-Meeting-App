@@ -17,6 +17,6 @@ You can download the apk from the [release](https://github.com/AadrianLeo/Meet-C
 
 ### `# Setup your firebase Authentication my giving gmail access`
 
-### `# change your flutter credentcials and google-services.json and other different details`
+### `# change your flutter credentcials and google-services.json and other different details paste the google-services.json file in android > app`
 
 ### `# You can download the google-services.json file from firebase console by making android app`
