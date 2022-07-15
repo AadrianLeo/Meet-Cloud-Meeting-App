@@ -3,7 +3,7 @@
 ![zoombg](https://user-images.githubusercontent.com/81036521/179223352-022790ea-65b6-485b-8dca-ecf92254c8be.png)
 #
 ## Introduction
-This is an flutter project an Cloud meeting app (Zoom Clone). Where you can Login with your google account and save your meeting data. you can create meetings by clicking on create meeting and you have many option such as mute, unmute, video mute, invite, chats as wel as masy other different features. you can join meeting by clicking on join meeting by giving the meeting id and your name. You can even view the meeting history and many more features available.
+This is an flutter project an Cloud meeting app (Zoom Clone). Where you can Login and logout with your google account and save your meeting data. you can create meetings by clicking on create meeting and you have many option such as mute, unmute, video mute, invite, chats as wel as masy other different features. you can join meeting by clicking on join meeting by giving the meeting id and your name. You can even view the meeting history and many more features available. All your data is stored in firebase database (not your personal data).
 
 The app is under development and some other features are comming soon
 
