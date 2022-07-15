@@ -9,7 +9,7 @@ The app is under development and some other features are comming soon
 
 ## Download link (meet)
 
-You can download the apk from the [release](https://github.com/AadrianLeo/Tictactoe-Multiplayer-Game/releases)
+You can download the apk from the [release](https://github.com/AadrianLeo/Meet-Cloud-Meeting-App/releases/tag/v1.0.0)
 
 ## Installation and setup
 
